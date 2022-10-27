@@ -1,1 +1,1 @@
-//5c8467c230229e70055cce4b7bc8d9ea
+const apikey = "5c8467c230229e70055cce4b7bc8d9ea"
